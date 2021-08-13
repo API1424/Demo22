@@ -7,5 +7,8 @@ class Sample{
         System.out.println("Hello part 4 "); 
 
 System.out.println("Hello part 5 "); 
+
+
+System.out.println("Hello part 6 "); 
     }  
 }  
