@@ -3,6 +3,8 @@ class Sample{
      System.out.println("Hello Java");  
     System.out.println("Hello Rohit"); 
     System.out.println("Hello part 2"); 
-    System.out.println("Hello part 3");    
+    System.out.println("Hello part 3");  
+        System.out.println("Hello part 4 "); 
+
     }  
 }  
