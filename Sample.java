@@ -5,10 +5,9 @@ class Sample{
     System.out.println("Hello part 2"); 
     System.out.println("Hello part 3");  
         System.out.println("Hello part 4 "); 
-
 System.out.println("Hello part 5 "); 
-
-
 System.out.println("Hello part 6 "); 
+System.out.println("Hello wadne"); 
+System.out.println("Hello Rohit Wadne"); 
     }  
 }  
