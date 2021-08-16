@@ -8,6 +8,11 @@ class Sample{
 System.out.println("Hello part 5 "); 
 System.out.println("Hello part 6 "); 
 System.out.println("Hello wadne"); 
-System.out.println("Hello Rohit Wadne"); 
+System.out.println("Hello Rohit Wadne");
+System.out.println("Hello Rohit Prakash Wadne");
+System.out.println("Hello Line 7 ");
+ 
+ 
+ 
     }  
 }  
